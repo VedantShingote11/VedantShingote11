@@ -15,7 +15,7 @@
 - 🧮 Solve Data Structures & Algorithms  — leetcode max 1,498  
   - 🏆 Top 6.9% (50+ days)  
   - 🏆 Top 4.2% (100+ days) in 2024  
-- 🧪 Participate in coding contests to keep my skills sharp  
+- 🧪 Participate in coding contests 
 
 ## 🔧 Projects I’ve Built
 
