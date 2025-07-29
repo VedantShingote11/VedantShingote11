@@ -27,7 +27,7 @@
   A platform where college peers can discover teammates and collaborate on hackathons based on skills and interests.
 
 - **VidScribe** *(Pro Editor)*  
-  An AI-powered agent that converts YouTube videos into engaging blogs or concise summaries using natural language processing.
+  An AI-powered agent that converts YouTube videos into engaging blogs or concise summaries.
 
 ## 🌱 What I’m Exploring
 
