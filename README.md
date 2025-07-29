@@ -33,8 +33,7 @@
 
 - 🔍 Real-life problem-solving with ML/AI
 - 🤖 AI agent applications
-- 🌐 Scalable, production-ready web systems
-- 🧩 Open-source collaboration
+- 🌐 Scalable, web systems
 
 ## 🤝 Let’s Connect & Build Together
 
