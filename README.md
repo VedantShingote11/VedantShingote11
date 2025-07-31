@@ -12,8 +12,7 @@
 - ⚙️ Build full-stack applications using **Next.js**, **React**, **Node.js**, and **MongoDB**
 - 🔄 Develop real-time applications using **Socket.io**
 - 🧠 Experiment with cutting-edge tools like **LangChain**, **LangGraph**, and AI agents
-- 🧮 Solve Data Structures & Algorithms  — leetcode max 1,498  
-  - 🏆 Top 6.9% (50+ days)  
+- 🧮 Solve Data Structures & Algorithms  — leetcode max 1,509  
   - 🏆 Top 4.2% (100+ days) in 2024  
 - 🧪 Participate in coding contests 
 
@@ -60,6 +59,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain)
