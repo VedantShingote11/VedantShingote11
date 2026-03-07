@@ -15,7 +15,7 @@
 - 🔄 Develop real-time applications using **Socket.io**
 - 🧠 Work with modern AI tools such as **LangChain, LangGraph, and AI agents**
 - 🧮 Solve **Data Structures & Algorithms**  
-  - LeetCode Max Rating: **1509**  
+  - LeetCode Max Rating: **1636**  
   - 🏆 Ranked in **Top 4.2% (100+ days) in 2024**
 - 🧪 Participate in coding contests and technical challenges
 
