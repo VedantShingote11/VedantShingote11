@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Vedant
+# Hey there, I'm Vedant
 
-💻 Full Stack Developer | AI/ML Enthusiast | Problem Solver  
+Full Stack Developer | AI/ML Enthusiast  
 
 ---
 
@@ -9,19 +9,19 @@
 
 ---
 
-## 💡 What I Do
+## What I Do
 
-- ⚙️ Build full-stack applications using **Next.js, React, Node.js, and MongoDB**
-- 🔄 Develop real-time applications using **Socket.io**
-- 🧠 Work with modern AI tools such as **LangChain, LangGraph, and AI agents**
-- 🧮 Solve **Data Structures & Algorithms**  
+- Build full-stack applications using **Next.js, React, Node.js, and MongoDB**
+- Develop real-time applications using **Socket.io**
+- Work with modern AI tools such as **LangChain, LangGraph, and AI agents**
+- Solve **Data Structures & Algorithms**  
   - LeetCode Max Rating: **1636**  
   - 🏆 Ranked in **Top 4.2% (100+ days) in 2024**
-- 🧪 Participate in coding contests and technical challenges
+- Participate in coding contests and technical challenges
 
 ---
 
-## 🔧 Projects I’ve Built
+## Projects I’ve Built
 
 ### **Sudhaar**
 A citizen-driven smart waste reporting platform.
@@ -43,7 +43,7 @@ An AI-powered system that converts YouTube videos into engaging blogs or concise
 
 ---
 
-## 🌱 What I’m Exploring
+## What I’m Exploring
 
 - 🔍 Real-world problem solving using **AI and Machine Learning**
 - 🤖 **AI agent applications**
@@ -51,7 +51,7 @@ An AI-powered system that converts YouTube videos into engaging blogs or concise
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - 🔗 **LinkedIn**  
   https://www.linkedin.com/in/vedant-shingote-1827802a8/
@@ -75,7 +75,7 @@ An AI-powered system that converts YouTube videos into engaging blogs or concise
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
