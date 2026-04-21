@@ -26,7 +26,7 @@ Full Stack Developer | AI/ML Enthusiast
 ### **PrepVerse**
 An AI-powered interview preparation platform that creates a realistic and personalized interview environment.
 
-🔗 **Live:** [https://prepverse.app](https://prepverse.software/)
+🔗 **Live:** [PrepVerse](https://prepverse.software/)
 
 - Resume-based personalized interview flow
 - Voice interaction using STT and TTS
@@ -38,10 +38,10 @@ An AI-powered interview preparation platform that creates a realistic and person
 ### **Sudhaar**
 A citizen-driven smart waste reporting platform.
 
-📸 Users report waste through photos  
-🧠 AI validates the report  
-🗺️ Authorities assign drivers  
-🚛 Route optimization guides efficient cleanup  
+- Users report waste through photos  
+- AI validates the report  
+- Authorities assign drivers  
+- Route optimization guides efficient cleanup  
 
 ---
 
