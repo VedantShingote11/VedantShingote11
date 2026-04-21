@@ -38,6 +38,8 @@ An AI-powered interview preparation platform that creates a realistic and person
 ### **Sudhaar**
 A citizen-driven smart waste reporting platform.
 
+🔗 **Demo:** [Sudhaar](https://youtu.be/sUso1xtWvE0)
+
 - Users report waste through photos  
 - AI validates the report  
 - Authorities assign drivers  
