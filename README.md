@@ -23,6 +23,18 @@ Full Stack Developer | AI/ML Enthusiast
 
 ## Projects I’ve Built
 
+### **PrepVerse**
+An AI-powered interview preparation platform that creates a realistic and personalized interview environment.
+
+🔗 **Live:** [https://prepverse.app](https://prepverse.software/)
+
+- Resume-based personalized interview flow
+- Voice interaction using STT and TTS
+- AI-driven questioning and feedback
+- Helps improve confidence, communication, and performance
+
+---
+
 ### **Sudhaar**
 A citizen-driven smart waste reporting platform.
 
@@ -30,11 +42,6 @@ A citizen-driven smart waste reporting platform.
 🧠 AI validates the report  
 🗺️ Authorities assign drivers  
 🚛 Route optimization guides efficient cleanup  
-
----
-
-### **Hackathon Connect**
-A platform where college students can discover teammates and collaborate on hackathons based on their skills and interests.
 
 ---
 
@@ -58,9 +65,6 @@ An AI-powered system that converts YouTube videos into engaging blogs or concise
 
 - 🧠 **LeetCode**  
   https://leetcode.com/u/vedantshingote11/
-
-- 💻 **GitHub**  
-  https://github.com/VedantShingote11
 
 ---
 
